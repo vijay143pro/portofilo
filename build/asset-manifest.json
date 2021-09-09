@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portofilo/static/css/main.4330b195.chunk.css",
+    "main.js": "/portofilo/static/js/main.6c2fbb1e.chunk.js",
+    "main.js.map": "/portofilo/static/js/main.6c2fbb1e.chunk.js.map",
+    "runtime-main.js": "/portofilo/static/js/runtime-main.5b23873f.js",
+    "runtime-main.js.map": "/portofilo/static/js/runtime-main.5b23873f.js.map",
+    "static/js/2.23ff3736.chunk.js": "/portofilo/static/js/2.23ff3736.chunk.js",
+    "static/js/2.23ff3736.chunk.js.map": "/portofilo/static/js/2.23ff3736.chunk.js.map",
+    "static/js/3.66e703dd.chunk.js": "/portofilo/static/js/3.66e703dd.chunk.js",
+    "static/js/3.66e703dd.chunk.js.map": "/portofilo/static/js/3.66e703dd.chunk.js.map",
+    "index.html": "/portofilo/index.html",
+    "static/css/main.4330b195.chunk.css.map": "/portofilo/static/css/main.4330b195.chunk.css.map",
+    "static/js/2.23ff3736.chunk.js.LICENSE.txt": "/portofilo/static/js/2.23ff3736.chunk.js.LICENSE.txt",
+    "static/media/TopContainer.css": "/portofilo/static/media/conclusion.33e450d6.jpg",
+    "static/media/skills.d54f696d.jpg": "/portofilo/static/media/skills.d54f696d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b23873f.js",
+    "static/js/2.23ff3736.chunk.js",
+    "static/css/main.4330b195.chunk.css",
+    "static/js/main.6c2fbb1e.chunk.js"
+  ]
+}
