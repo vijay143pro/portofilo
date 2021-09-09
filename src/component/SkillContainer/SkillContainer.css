@@ -1,0 +1,45 @@
+.logo{
+    width: 500px;
+    min-height: 300px;
+}
+.skillContainer{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin: 200px 0;
+}
+.skillContainer__text{
+    color: #fff;
+    flex: 0.6;
+    text-align: left;
+    max-width: 500px;
+    margin-bottom: 20px;
+}
+.skillContainer__text>h2{
+    font-size: 30px;
+
+}
+.skillContainer__img{
+    flex: 0.4;
+    text-align: center;
+    margin-right: 100px;
+
+}
+.skillContainer__img>img{
+    width: 600px;
+    border-radius: 3px;
+    object-fit: contain;
+}
+.skillContainer__skillset>h5{
+    font-weight: 300;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    font-family: sans-serif;
+}
+.skillContainer__slider>.MuiLinearProgress-colorPrimary{
+    background-color: rgb(247, 131, 115);
+
+}
+.skillContainer__slider>div>.MuiLinearProgress-barColorPrimary{
+    background-color:#29b2d4 ;
+}

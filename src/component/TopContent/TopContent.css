@@ -1,0 +1,60 @@
+.topContent{
+    position: relative;
+    color: #fff;
+
+}
+.TopContent__container{
+    position: absolute;
+    top: 100px;
+    right: 20px;
+}
+.TopContent__container>p{
+    letter-spacing: 1px;
+    text-align: left;
+    padding-left: 3px;
+    padding-top: 10px;
+}
+.TopContent__container>a>button{
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 5px;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+}
+.TopContent__container>h1{
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.topContent__downloadBtn{
+    color: #fff;
+    border: 1px solid white !important;
+    background-color: transparent;
+    font-size: 14px;
+    padding: 10px 30px;
+    font-weight: 300;
+    cursor: pointer;
+    margin-left: 30px;
+}
+.topContent__downloadBtn:hover{
+    background-color: #0dc2ed;
+    color: #fff;
+    font-weight: 600;
+}
+
+
+
+.topContent__workBtn{
+    color: #fff;
+    border: 1px solid white !important;
+    background-color: #000;
+    font-size: 14px;
+    padding: 9px 35px;
+    font-weight: 300;
+    cursor: pointer;
+}
+.topContent__workBtn:hover{
+    color: #000;
+    background-color: #fff;
+    font-weight: 600;
+}
